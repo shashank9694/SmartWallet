@@ -26,12 +26,12 @@ The Smart Wallet Application allows users to securely manage their Ether transac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-wallet-app.git
+   git clone https://github.com/shashank9694/SmartWallet.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd smart-wallet-app
+   cd SmartWallet
    ```
 
 3. Install dependencies:
@@ -114,9 +114,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [MetaMask](https://metamask.io/) for wallet integration.
 ```
 
-### How to Use This README:
-- Replace `yourusername` in the clone command with your GitHub username.
-- You may want to add additional sections based on your project’s requirements, such as deployment instructions or known issues.
-- Ensure that any links or references are updated to reflect your actual project details.
 
-Let me know if you need any more modifications or additional information!
+
